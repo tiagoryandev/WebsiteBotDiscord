@@ -1,4 +1,4 @@
-# :desktop: WEBSITE SIMPLES PARA BOTS DISCORD
+# :tv: WEBSITE SIMPLES PARA BOTS DISCORD
 
 ## `1º` **|** Introdução:
 
